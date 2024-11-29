@@ -65,3 +65,21 @@ Whether you're a beginner or an expert, you're welcome here!
 - Join discussions and share your insights.
 
 Feel free to reach out for collaboration or suggestions. Let's grow together as a community of coding warriors!
+
+
+---
+
+## 🔖 Featured Repository
+
+<div align="center">
+    <!-- GeekforGeeks Repo -->
+    <a href="https://github.com/VictrixLegion/GfG-160-Solutions#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=VictrixLegion&repo=GfG-160-Solutions&theme=github_dark#gh-dark-mode-only">
+    </a>
+      <a href="https://github.com/VictrixLegion/LeetCode-Solutions#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=VictrixLegion&repo=LeetCode-Solutions&theme=github_dark#gh-dark-mode-only">
+    </a>
+</div>
+
+</br>
+
