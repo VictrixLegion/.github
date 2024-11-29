@@ -77,7 +77,7 @@ Feel free to reach out for collaboration or suggestions. Let's grow together as 
         <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=VictrixLegion&repo=GfG-160-Solutions&theme=github_dark#gh-dark-mode-only">
     </a>
       <a href="https://github.com/VictrixLegion/LeetCode-Solutions#gh-dark-mode-only">
-        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=VictrixLegion&repo=LeetCode-Solutions&theme=github_dark#gh-dark-mode-only">
+        <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=Victrix-Legion&repo=LeetCode-Solutions&theme=github_dark#gh-dark-mode-only">
     </a>
 </div>
 
