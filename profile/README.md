@@ -1,6 +1,6 @@
 <div  align="center">
  <kbd> <img 
-       src="https://media.istockphoto.com/id/1432962983/vector/quantum-computer-technologies-concept-futuristic-blue-circuit-board-background-vector-modern.jpg?s=612x612&w=0&k=20&c=e1KLxKFTLgTl63XMzKHglI8O8fnaMMCm-Z3jLxI7Ti8=" 
+       src="https://dxc.scene7.com/is/image/dxc/Low%20code%20screen:banner_desktop" 
        alt="Motivational Sales Quotes" 
        style="max-width: 100%; height: auto;"> </kbd>  
 </div>
